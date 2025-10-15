@@ -8,23 +8,23 @@
 
 ## 게임 장면
 
-##빨간 폭탄 피하기
+## 빨간 폭탄 피하기
 <img width="410" height="353" alt="image" src="https://github.com/user-attachments/assets/34cc8111-04c7-4a72-8c84-6b986b77c55b" />
 
 
-##막대 색과 같은 공 튕기기 + 색 변화
+## 막대 색과 같은 공 튕기기 + 색 변화
 <img width="407" height="353" alt="image" src="https://github.com/user-attachments/assets/098a2efb-7904-4c5f-8b5d-dc1975784bc0" />
 
 
-##빨간 폭탄 맞으면 폭발
+## 빨간 폭탄 맞으면 폭발
 <img width="410" height="356" alt="image" src="https://github.com/user-attachments/assets/fa63318a-ef49-4c59-b48a-b4ca0539c317" />
 
 
-##승리 화면
+## 승리 화면
 <img width="405" height="341" alt="image" src="https://github.com/user-attachments/assets/3826641c-6fa2-46e7-beea-981a705ed855" />
 
 
-##패배 화면
+## 패배 화면
 <img width="401" height="347" alt="image" src="https://github.com/user-attachments/assets/45674a0a-d208-463a-bd17-8219fe834dd5" />
 
 
